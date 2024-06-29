@@ -15,9 +15,23 @@ Hi there! I'm Mihir, and this is my portfolio website code built with HTML, CSS,
 * Fonts: Augustina, Rubik, Dancing Script
 * Bootstrap Icons
 
-Credit: github.com/itsvijaysingh
+
 ## **Contact**
 
 Feel free to connect with me or leave feedback. I'm always learning and improving! 
 
 > ~ [hi@itsvj.me](mailto:hi@itsvj.me)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Credit: https://www.github.com/itsvijaysingh
